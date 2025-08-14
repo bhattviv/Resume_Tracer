@@ -50,8 +50,6 @@ You can deploy this app for free on:
 
 🤗 Hugging Face Spaces
 
-🐳 Docker for private hosting
-
 📸 Screenshots
 Upload Section	Analytics Section
 
