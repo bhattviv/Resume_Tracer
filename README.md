@@ -1,4 +1,4 @@
-Resume Tracer
+🚀 Resume Tracer
 
 A Streamlit-based web application that allows users to upload resumes and track their details, status, and progress.
 The app provides an intuitive interface for managing and visualizing resume-related data.
